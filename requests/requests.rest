@@ -1,0 +1,21 @@
+### 3/25/22 (watching sweet 16)
+
+### home page
+GET http://localhost:3000
+
+### get team with id = 1
+GET http://localhost:3000/teams/1
+
+### get team with id = 4
+GET http://localhost:3000/teams/4
+
+### add team
+POST http://localhost:3000/teams/8/Tarheals
+
+### get team with id = 8
+GET http://localhost:3000/teams/8
+
+### get all teams
+GET http://localhost:3000/teams
+
+
